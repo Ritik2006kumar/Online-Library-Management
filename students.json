@@ -1,0 +1,18 @@
+{
+    "1": {
+        "id": 1,
+        "name": "ritik",
+        "enrollment_no": "9473657359",
+        "course": "BA",
+        "email": "rs895483@gmail.com",
+        "password": "90001"
+    },
+    "2": {
+        "id": 2,
+        "name": "Rohan",
+        "enrollment_no": "1234567890",
+        "course": "BSC",
+        "email": "rs895483@gmail.com",
+        "password": "90001"
+    }
+}

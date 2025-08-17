@@ -1,0 +1,30 @@
+{
+    "1": {
+        "id": 1,
+        "title": "Python",
+        "author": "R.k.",
+        "total_copies": 20,
+        "available_copies": 20
+    },
+    "2": {
+        "id": 2,
+        "title": "DBMS",
+        "author": "R.k.",
+        "total_copies": 20,
+        "available_copies": 20
+    },
+    "3": {
+        "id": 3,
+        "title": "DBMS",
+        "author": "R.k.",
+        "total_copies": 20,
+        "available_copies": 20
+    },
+    "4": {
+        "id": 4,
+        "title": "C Programming",
+        "author": "R.k.",
+        "total_copies": 20,
+        "available_copies": 20
+    }
+}
